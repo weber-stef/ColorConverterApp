@@ -1,0 +1,22 @@
+{
+  "name": "colorconverterapp",
+  "version": "0.1.0",
+  "description": "## Exercise ColorConverter Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weber-stef/ColorConverterApp.git"
+  },
+  "author": "Stefan Wruck <vitatech@gmx.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weber-stef/ColorConverterApp/issues"
+  },
+  "homepage": "https://github.com/weber-stef/ColorConverterApp#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
