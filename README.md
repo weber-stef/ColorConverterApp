@@ -31,3 +31,19 @@ example response:
 "i'm_not_a_valid_color_but_i_made_it_into_the_statistics": 2
 }
 }
+
+#HowTo:
+
+@ GitHub: 
+New repo "ColorConverterApp" with readme (copy exercise description into it)
+@ MachineFolder git clone that repo
+cd ColorConverterApp
+npm init (creates package.json)
+Install color-convert-api:
+npm install color-convert
+Install express-api:
+(Installieren Sie jetzt Express im Verzeichnis app und speichern Sie es in der Abhängigkeitsliste.)
+npm install express --save
+(beide Apis wurde dadurch dem node-modules-Folder hinzugefügt)
+Require the apis in the js.-File:
+
